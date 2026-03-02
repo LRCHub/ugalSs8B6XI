@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "24/7, 365",
+  "base_artist": "elijah woods",
+  "createdAt": "2026-03-02T06:42:30.096766Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "24",
+      "artist": "Lana Del Rey",
+      "has_synced": true,
+      "path": "select/01_24_Lana_Del_Rey.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "24/7",
+      "artist": "Namasenda",
+      "has_synced": true,
+      "path": "select/02_24_7_Namasenda.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "24",
+      "artist": "IDK",
+      "has_synced": true,
+      "path": "select/03_24_IDK.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "24/7 In My 911",
+      "artist": "Vengaboys",
+      "has_synced": true,
+      "path": "select/04_24_7_In_My_911_Vengaboys.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "24",
+      "artist": "Flor",
+      "has_synced": true,
+      "path": "select/05_24_Flor.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "24",
+      "artist": "Jem",
+      "has_synced": true,
+      "path": "select/06_24_Jem.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "24 Hrs. To Live [feat. The Lox, Black Rob & DMX]",
+      "artist": "Mase",
+      "has_synced": false,
+      "path": "select/07_24_Hrs._To_Live_[feat._The_Lox,_Black_Rob_&_DMX]_Mase.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "24 Hrs To Live (Feat Black Rob, DMX, The Lox)",
+      "artist": "Mase",
+      "has_synced": true,
+      "path": "select/08_24_Hrs_To_Live_(Feat_Black_Rob,_DMX,_The_Lox)_Mase.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "24 Hours",
+      "artist": "Georgia",
+      "has_synced": true,
+      "path": "select/09_24_Hours_Georgia.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Section 24 [The Fragile Army]",
+      "artist": "The Polyphonic Spree",
+      "has_synced": true,
+      "path": "select/10_Section_24_[The_Fragile_Army]_The_Polyphonic_Spree.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Mob Ties (feat. 24 Heavy & Slime Life Shawty)",
+      "artist": "Unfoonk",
+      "has_synced": true,
+      "path": "select/11_Mob_Ties_(feat._24_Heavy_&_Slime_Life_Shawty)_Unfoonk.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Hot In The City - Exterminator Mix / 24-Bit Digitally Remastered 2001",
+      "artist": "Billy Idol",
+      "has_synced": true,
+      "path": "select/12_Hot_In_The_City_-_Exterminator_Mix___24-Bit_Digitally_Remastered_2001_Billy_Idol.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Love Calling - Rub A Dub Dub Mix / 24-Bit Digitally Remastered 2001",
+      "artist": "Billy Idol",
+      "has_synced": false,
+      "path": "select/13_Love_Calling_-_Rub_A_Dub_Dub_Mix___24-Bit_Digitally_Remastered_2001_Billy_Idol.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Mony Mony - Downtown Mix / 24-Bit Digitally Remastered 2001",
+      "artist": "Billy Idol",
+      "has_synced": true,
+      "path": "select/14_Mony_Mony_-_Downtown_Mix___24-Bit_Digitally_Remastered_2001_Billy_Idol.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "White Wedding (Parts 1 And 2) - Shotgun Mix / 24-Bit Digitally Remastered 2001",
+      "artist": "Billy Idol",
+      "has_synced": true,
+      "path": "select/15_White_Wedding_(Parts_1_And_2)_-_Shotgun_Mix___24-Bit_Digitally_Remastered_2001_Billy_Idol.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "24\u00007 in My 911",
+      "artist": "Vengaboys",
+      "has_synced": true,
+      "path": "select/16_24\u00007_in_My_911_Vengaboys.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "24.12.",
+      "artist": "B. Fleischmann",
+      "has_synced": true,
+      "path": "select/17_24.12._B._Fleischmann.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "24/7, 365",
+      "artist": "elijah woods",
+      "has_synced": false,
+      "path": "select/pl_01_24_7,_365_elijah_woods.txt"
+    }
+  ]
+}
